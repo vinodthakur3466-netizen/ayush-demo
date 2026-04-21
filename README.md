@@ -1,2 +1,2 @@
 # ayush-demo
-this my first git repository
+this ismy first git repository
